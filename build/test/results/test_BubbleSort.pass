@@ -1,0 +1,28 @@
+---
+:source:
+  :path: test
+  :file: test_BubbleSort.c
+:successes:
+- :test: test_swap_5_3_should_swap
+  :line: 16
+  :message: ''
+- :test: test_swap_1_2_should_swap
+  :line: 26
+  :message: ''
+- :test: test_bubbleSort_2_5_3_7_4_should_sort
+  :line: 37
+  :message: ''
+- :test: test_bubbleSort_1_12_3_8_5_should_sort
+  :line: 49
+  :message: ''
+- :test: test_bubbleSort_100_23_67_12_should_sort
+  :line: 61
+  :message: ''
+:failures: []
+:ignores: []
+:counts:
+  :total: 5
+  :passed: 5
+  :failed: 0
+  :ignored: 0
+:stdout: []
